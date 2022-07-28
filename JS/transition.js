@@ -211,7 +211,7 @@ function snowflake() {
 var audioConfig = {
 	enable: true, //是否开启音乐
 	playURL: './music/waiting.mp3', // 正常播放地址
-	cycleURL: './music/circulation.wav' // 正常循环播放地址
+	cycleURL: './music/waiting.mp3' // 正常循环播放地址
 };
 
 ///////////
